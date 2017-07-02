@@ -26,7 +26,7 @@ public class ServiceCalculadora {
 		int nuNum2 = vo.getNuNumero2();
 		int nuResultado;
 		
-		nuResultado = calculadoraLogica.suma(nuNum1, nuNum2);
+		nuResultado = calculadoraLogica.resta(nuNum1, nuNum2);
 		vo.setSbProcesado("Ok");
 		
 		vo.setNuResultado(nuResultado);
