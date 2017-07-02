@@ -4,7 +4,7 @@ public class VOCalculadora {
 	
 	private int nuNumero1;
 	private int nuNumero2;
-	private int nuResultado;
+	private int nuResultado; 
 	private String sbProcesado;
 	
 	public int getNuNumero1() {
