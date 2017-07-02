@@ -26,7 +26,7 @@ public class CalculadoraLogicTest {
 		
 		int nuRes = calculadora.resta(nuNum1, nuNum2);
 		
-		assertTrue(nuRes == 5);
+		assertTrue(nuRes == 5); 
 	}
 	
 	@Test
