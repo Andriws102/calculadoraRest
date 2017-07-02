@@ -12,7 +12,7 @@ public class CalculadoraLogicTest {
 	@Test
 	public void sumarTest(){
 		int nuNum1 = 1;
-		int nuNum2 = 5;
+		int nuNum2 = 8;
 		
 		int nuRes = calculadora.suma(nuNum1, nuNum2);
 		
